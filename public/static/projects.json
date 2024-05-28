@@ -1,0 +1,50 @@
+[
+  {
+    "title": "VECK",
+    "description": "Платформа для сбора сигналов от участников венчурного рынка. «Empowering Venture Investors with Data Insights»",
+    "year": "2024",
+    "skills": ["Backend", "UI/UX дизайн", "Алгоритмы сбора и обработки данных"],
+    "link": "http://theveck.com/",
+    "image": "static/images/portfolio/veck/0.png"
+  },
+  {
+    "title": "RALLY",
+    "description": "MVP платформы, предлагающей персонализированную финансовую консультацию разового использования по фиксированной цене с подробными отчетами, основанными на данных анкеты и шаблонах консультантов в Google Sheets.",
+    "year": "2024",
+    "skills": ["Backend", "Frontend", "UI/UX дизайн"],
+    "link": "http://beginrally.com/",
+    "image": "static/images/portfolio/rally/0.png"
+  },
+  {
+    "title": "CRM для стилистов CAPSULA",
+    "description": "Рабочее пространство для менеджеров по управлению сделками и нагрузкой на стилистов, а также личный кабинет стилистов со всеми данными о клиентах и возможностью формирования различных продуктов Capsula прямо на сайте.",
+    "year": "2023",
+    "skills": ["Backend", "Frontend", "UI/UX дизайн"],
+    "link": "https://thecapsula.ru/workflow/login/",
+    "image": "static/images/portfolio/crm-capsula/0.png"
+  },
+  {
+    "title": "NERO.LAB",
+    "description": "Оптовый мини-каталог для Nero.Lab.",
+    "year": "2023",
+    "skills": ["Frontend", "UI/UX дизайн"],
+    "link": "https://opt.nero.shop/",
+    "image": "static/images/portfolio/nero/0.png"
+  },
+  {
+    "title": "Приложение СберСалют для клиентов CAPSULA",
+    "description": "Разработка визуального интерфейса голосового помощника «Салют» (телефон/десктоп/плазмы — ТВ приставки) для проекта Capsula.",
+    "year": "2022",
+    "skills": ["Backend", "Frontend", "UI/UX дизайн"],
+    "link": "https://salute.sber.ru/",
+    "image": "static/images/portfolio/salute/0.png"
+  },
+  {
+    "title": "ЛК для клиентов CAPSULA",
+    "description": "Личный кабинет для клиентов Capsula, который позволяет хранить подборки, профили, историю заказов и личные рекомендации от стилистов Capsula.",
+    "year": "2022",
+    "skills": ["Backend", "Frontend", "UI/UX дизайн"],
+    "link": "https://thecapsula.ru/my",
+    "image": "static/images/portfolio/capsula/0.png"
+  }
+]
