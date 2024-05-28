@@ -4,7 +4,7 @@ const Portfolio = () => {
   const [projects, setProjects] = useState([]);
   
   useEffect(() => {
-    fetch('/static/projects.json')
+    fetch('/public/static/projects.json')
       .then(response => response.json())
       .then(data => setProjects(data))
       .catch(error => console.error('Error fetching projects:', error));
