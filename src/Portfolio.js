@@ -4,17 +4,12 @@ const Portfolio = () => {
   const [projects, setProjects] = useState([]);
   
   useEffect(() => {
-  fetch('https://mirrosha26.github.io/public/static/projects.json')
-    .then(response => {
-      if (!response.ok) {
-        throw new Error(`HTTP error! Status: ${response.status}`);
-      }
-      return response.json();
-    })
-    .then(data => setProjects(data))
-    .catch(error => console.error('Error fetching projects:', error));
-}, []);
-
+    fetch('/static/projects.json')
+      .then(response => response.json())
+      .then(data => setProjects(data))
+      .catch(error => console.error('Error fetching projects:', error));
+  }, []);
+  
 
   return (
     <div className="container pt-4 pt-lg-0">
