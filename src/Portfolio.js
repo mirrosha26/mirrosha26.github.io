@@ -1,13 +1,12 @@
 import React, { useEffect, useState } from 'react';
+import projectsData from './projects.json'; // укажите правильный путь к вашему JSON файлу
 
 const Portfolio = () => {
   const [projects, setProjects] = useState([]);
+
   
   useEffect(() => {
-    fetch('/public/static/projects.json')
-      .then(response => response.json())
-      .then(data => setProjects(data))
-      .catch(error => console.error('Error fetching projects:', error));
+    setProjects(projectsData);
   }, []);
   
 
