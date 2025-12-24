@@ -96,7 +96,7 @@ function App() {
           {/* Нижний футер */}
           <div className="d-md-flex justify-content-between align-items-center text-center text-lg-start py-4">
             {/* текст авторского права */}
-            <div className="text-body">Copyrights ©2025 mirrosha26.github.io/</div>
+            <div className="text-body">Copyrights ©2025 mirrosha26.github.io</div>
             {/* ссылки авторского права */}
             {/* Выбор языка */}
           </div>
