@@ -9,9 +9,9 @@ function App() {
           <div className="row">
             <div className="col-xl-10 text-center mx-auto">
               <div className="avatar avatar-xxl my-4">
-                <img className="avatar-img rounded-circle" src="static/images/me/mirrosha.jpg" alt="mirrosha" />
+                <img className="avatar-img rounded-circle" src="./images/me/mirrosha.png" alt="mirrosha" />
               </div>
-              <h2 className="mb-4">Привет 👋🏻 Я Миша, UX/UI-дизайнер и Python/Django разработчик</h2>
+              <h2 className="mb-4">Привет 👋🏻 Я Миша, UX/UI-дизайнер и Fullstack-разработчик</h2>
               <p className="lead mb-0">Ниже несколько моих последних работ 👇</p>
             </div>
           </div>
@@ -89,14 +89,14 @@ function App() {
 
         {/* SVG украшение */}
         <div className="position-absolute top-0 end-0 mt-n3 me-n4">
-          <img src="/static/assets/images/elements/decoration-pattern-2.svg" style={{ opacity: 0.05 }} alt="" />
+          <img src="./assets/images/elements/decoration-pattern-2.svg" style={{ opacity: 0.05 }} alt="" />
         </div>
 
         <div className="container position-relative mt-5">
           {/* Нижний футер */}
           <div className="d-md-flex justify-content-between align-items-center text-center text-lg-start py-4">
             {/* текст авторского права */}
-            <div className="text-body">Copyrights ©2024 mirrosha.ru</div>
+            <div className="text-body">Copyrights ©2025 mirrosha.ru</div>
             {/* ссылки авторского права */}
             {/* Выбор языка */}
           </div>

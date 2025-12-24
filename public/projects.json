@@ -1,41 +1,14 @@
 [
   {
     "title": "VECK",
-    "description": "B2B SaaS платформа для раннего выявления инвестиционных возможностей",
-    "year": "2025",
+    "description": "Платформа для сбора сигналов от участников венчурного рынка. «Empowering Venture Investors with Data Insights»",
+    "year": "2024",
     "skills": ["Backend", "UI/UX дизайн", "Алгоритмы сбора и обработки данных"],
-    
     "link": "http://theveck.com/",
     "images": [
       "./images/portfolio/veck/0.png",
-      "./images/portfolio/veck/1.png",
-      "./images/portfolio/veck/2.png",
-      "./images/portfolio/veck/3.png",
-      "./images/portfolio/veck/4.png"
-    ]
-  },
-  {
-    "title": "Analytics Core",
-    "description": "Платформа для аналитики Telegram-каналов с AI-обработкой. Собирает посты, анализирует через Gemini AI, извлекает персоны, бренды и sentiment.",
-    "year": "2025",
-    "skills": [
-        "Backend",
-        "Frontend",
-        "AI/ML"
-    ],
-    "inDevelopment": true,
-    "images": [
-      "./images/portfolio/analytics-core/0.png"
-    ]
-},
-  {
-    "title": "OSTIN X CAPSULA",
-    "description": "Личный кабинет OSTIN X CAPSULA + API для части мобильного приложения O'STIN.",
-    "year": "2024-2025",
-    "skills": ["Backend", "Frontend", "UI/UX дизайн"],
-    "link": "https://ostin.com/clp/ostin_capsula_poluchi_svoyu_kartu_stilya",
-    "images": [
-      "./images/portfolio/ostin/0.png"
+      "./images/portfolio/veck/0.png",
+      "./images/portfolio/veck/0.png"
     ]
   },
   {
