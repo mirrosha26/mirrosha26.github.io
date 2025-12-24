@@ -25,7 +25,11 @@
     ],
     "inDevelopment": true,
     "images": [
-      "./images/portfolio/analytics-core/0.png"
+      "./images/portfolio/analytics-core/0.png",
+      "./images/portfolio/analytics-core/1.png",    
+      "./images/portfolio/analytics-core/2.png",
+      "./images/portfolio/analytics-core/3.png",
+      "./images/portfolio/analytics-core/4.png"
     ]
   },
   {
