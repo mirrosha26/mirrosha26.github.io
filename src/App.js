@@ -57,7 +57,7 @@ function App() {
                 <p className="text-white mb-4">Я уделю время для понимания вашего видения и целей, и разработаю вместе с вами индивидуальный план для разработки вашего MVP или улучшения текущего продукта.</p>
                 {/* Кнопка */}
                 <div className="d-sm-flex justify-content-center align-items-center gap-2">
-                  <a href="https://t.me/mirroshnikov" className="btn btn-dark"><i className="bi bi-telegram me-2"></i>Telegram</a>
+                  <a href="https://t.me/mv_miroshnikov" className="btn btn-dark"><i className="bi bi-telegram me-2"></i>Telegram</a>
                 </div>
               </div>
             </div>
@@ -96,7 +96,7 @@ function App() {
           {/* Нижний футер */}
           <div className="d-md-flex justify-content-between align-items-center text-center text-lg-start py-4">
             {/* текст авторского права */}
-            <div className="text-body">Copyrights ©2025 mirrosha.ru</div>
+            <div className="text-body">Copyrights ©2025 mirrosha26.github.io/</div>
             {/* ссылки авторского права */}
             {/* Выбор языка */}
           </div>
